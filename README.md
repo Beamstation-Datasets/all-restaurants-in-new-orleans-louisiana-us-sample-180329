@@ -1,6 +1,6 @@
 # All Restaurants in New Orleans, Louisiana, US
 
-> Free BeamStation sample export with 199 rows and masked direct-contact fields.
+> Free BeamStation sample export with 210 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `180329` |
 | Location | New Orleans |
 | Category | Restaurants |
-| Full dataset size | 1,997 records |
-| Free sample size | 199 records (9.96%) |
-| Last export | 2026-04-28T22:39:30.095624+00:00 |
+| Full dataset size | 2,101 records |
+| Free sample size | 210 records (10.0%) |
+| Last export | 2026-05-07T22:44:45.792801+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-orleans-louisiana-us-sample-180329/releases/download/sample-latest/beamstation_180329_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
